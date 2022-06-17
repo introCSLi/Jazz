@@ -7,3 +7,5 @@ For the background layer of the visual, I chose Jean-Michel Basquiat's "King Zul
 In our first lesson, we learned about palimpsets, and in a way, my audiovisual work is also multi-layered, both in meaning and form. Layer one is Basquiat's painting, layer two is the circular form, and layer zero is the music. And in a sense, this is also the chronological order of influences: Armstrong's music and persona inspired Basquiat's painting, and then my final project for "Jazz in New York." 
 
 I built in an interaction between the user and the output (by making the center of the circles match the cursor), just as there is always some interaction between the audience and the performance in live jazz performances.
+
+Link: https://youtu.be/TGYzVe26msg
